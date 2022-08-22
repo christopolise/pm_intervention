@@ -1,0 +1,13 @@
+email: chkitras@gmail.com
+
+password: enterthenetlab
+
+trigger_time:
+  hour: 10
+  min: 30
+
+clean_interval:
+  hour: 1
+  min: 0
+
+aq_threshhold: 50
